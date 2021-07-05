@@ -328,3 +328,68 @@ footer {
          column-count: 2;
     }
 }
+
+/* form image and text */
+
+#form-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    
+    position: relative;
+}
+
+#form-text {
+    color: #fff;
+}
+
+#form-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/form-image.jpg) no-repeat center center;
+    overflow: hidden;
+    
+    position: relative;
+
+    /* animates zoom effect on loading */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* creates level of zoom effect for form image */
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+#form-text {
+    font-size: 100%;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 70px;
+
+    background-color: rgba(241, 187, 107, 0.7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+}
+
+#join-button {
+    background-color:  rgba(241, 187, 107, 0);
+    font-size: 15px;
+    border-style: solid;
+}
