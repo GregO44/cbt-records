@@ -1,62 +1,64 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-CBT Records is an online store and music label site that hopes to create a direct connection between music enthusiasts in the electronic music scene worldwide. The site will be targeted towards artists, labels, djs & collectors. 
+CBT Records is an online vinyl record store and electronic music label that hopes to create a direct connection between enthusiasts in the electronic music scene worldwide, along with promoting the label itself.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club.
+The site will be targeted towards artists, labels, djs & collectors who are looking for one single place to source records from, with one single login, one single shipping cost and thriving online community. The site will also be a place where people can share ideas, resources, events, tips, reviews and more.
 
-Responsice Mockup
+*Responsive Mockup pics on multiple devices
 
 Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 Existing Features
 Navigation Bar
 
-Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, label browse and join page and is identical in each page to allow for easy navigation.
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-Nav Bar
+
+*Nav Bar image
 
 The landing page image
 
-The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-This section introduces the user to Love Running with an eye catching animation to grab their attention
-Landing Page
+The landing includes a photograph of a collector browsing though a record collection with text overlay to allow the user to see exactly what the site would be applicable to.
+This section introduces the user to CBT Records with an eye catching animation to grab their attention
+*Landing Page image
 
-Club Ethos Section
+Shop Ethos Section
 
-The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
-Club Ethos
+The shop ethos section will allow the user to see the benefits of joining the CBT records online community, as well as additional features to offer.
+This user will see the value of signing up for the CBT records. This should encourage the user to consider CBT as their form of collecting.
+*Shop Ethos image
 
-Meetup Times section
+Physical locations section
 
-This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-This section will be updated as these times change to keep the user up to date.
-Meetup Times
+This section will allow the user to see exactly where our physical stores are located, with addresses and opening hours.
+This section will be updated as these times change to keep the user up to date. Each section will be anchored to launch Google Maps in a new tab when clicked.
+
+*Physical locations image
 
 The Footer
 
-The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
+The footer section includes links to the relevant social media sites for CBT records. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media
 Footer
 
-Gallery
+Browse
 
-The gallery will provide the user with supporting images to see what the meet ups look like.
-This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
-Gallery
+The gallery will provide the user with supporting images to see what record labels are available to choose from.
+This section is valuable to the user as they will be able to easily identify the label they want to browse content from wit distiguishable logos within a clickable link that will launch the artists direct site in a new tab on selecting.
 
-The Sign Up Page
+*Browse image
 
-This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
-Sign Up
+The join Page
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+This page will allow the user to get signed up to CBT Records to start their collectin journey with the community. The user will be able specify if they are shopping as a DJ or collector. The user will be asked to submit their full name and email address.
+*Sign Up image
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 Features Left to Implement
+Events page
 Another feature idea
+Forum
 Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
