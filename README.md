@@ -85,7 +85,7 @@
 * In the GitHub repository, navigate to the Settings tab
 * From the source section drop-down menu, select the Master Branch
 * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-* The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+* The live link can be found here - https://grego44.github.io/cbt-records/
 
 ## Credits
 ### Google Maps for physical location links.
