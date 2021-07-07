@@ -1,19 +1,17 @@
-![CBT Records Logo](workspace/cbt-records/assets/images/Ethos-image.jpg)
+![CBT Records Logo](/images/Ethos-image.jpg)
 
 ## CBT Records
 
-### CBT Records is an online vinyl record store and electronic music label that hopes to create a direct connection between collectors and artists in the electronic music scene worldwide. It's aim is to market new music, events, merchandise and records sales, both online and in mockup pysical stores. It's revenue would be generated via traffic to the artists direct sites. The idea being that it's one central place to select music, which can then be purchased completely via our site, with one list and one shipping fee.
+### CBT Records is an online vinyl record store and electronic music label that hopes to create a direct connection between collectors and artists in the electronic music scene worldwide. It's aim is to market new music, events, merchandise and records sales, both online and in mockup physical stores. It's revenue would be generated via traffic to the artists direct sites.
 
-### The site will be targeted towards artists, labels, djs & collectors who are looking for one single place to discover, purchase, sell and promote music from. It will have one login, one shipping cost and will host a thriving online community. The site will also be a platform for creatives to share ideas, resources, events, tips, reviews and more. 
+### The site will be targeted towards artists, labels, djs & collectors, who are looking for one single place to discover, purchase, sell and promote music from. It will have one login, one shipping cost and will host a thriving online community. The site will also be a platform for creatives to share ideas, resources, events, tips, reviews and more. 
 
 ![Responsive Mockup images on multiple devices]()
-
-## Features
 
 ## Existing Features
 ### Navigation Bar
 
-### Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, label browse and join page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+### Featured on all three pages, the fully responsive navigation bar includes links to the Logo, Home page, label browse and join page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![Nav Bar image]()
 
@@ -31,7 +29,7 @@
 
 ## Physical locations section
 
-### This section will allow the user to see exactly where our physical stores are located, with addresses and opening hours. This section will be updated as these times change to keep the user up to date. Each section will be anchored to launch Google Maps in a new tab when clicked.
+### This section will allow the user to see exactly where the mockup physical stores are located, with addresses and opening hours. This section will be updated as these times change to keep the user up to date. Each section will be anchored to launch Google Maps in a new tab when clicked.
 
 ![Physical locations image]()
 
@@ -43,7 +41,7 @@
 
 ## Browse page
 
-### The Brose page will provide the user with supporting images to the record labels available to choose from. This section is valuable to the user as they will be able to easily identify the label they want to browse music from with distiguishable logos and nested within a clickable link that will launch the artists direct site or Bandcamp page in a new tab on selecting.
+### The Browse page will provide the user with supporting images to the record labels available to choose from. This section is valuable to the user as they will be able to easily identify the label they want to browse music from, idetified by distiguishable logos nested within a clickable link that will launch the artists Bandcamp page in a new tab.
 
 ![Browse image]()
 
@@ -53,20 +51,20 @@
 
 ![Sign Up image]()
 
-## Features Left to Implement
+## Features left to implement
 
 ## *Merch page*
 
-### This page would allow a user to brose different merchandise available from their favourite aertists and labels with links to connect with the direct store.
+### This page would allow a user to browse different merchandise available from artists and labels, with links to connect with the direct store.
 
 ## Another feature idea
 
 ## *Forum*
 
-### This section would act as an online forum for site users to discuss releases, upcoming events, share ideas and more.
+### This section would act as an online forum for site users to discuss releases, events, concepts and more.
 
 ## Testing
-### In testing the site I first ensured the heading nav bar was fully functional with the logo and all three pages navigating with the same style applied. I ensured the landing page zoom effect style works on launch. I went through each Google map anchor linked to the physical locations divs which successfully launch in a new tab when selected. In the Browse page I tested each linked label image, which succesfully launches the label/artists site directly in a new tab. I the succesfully tested the Join page, checking each input of the form and submitting with a succesful result.
+### In testing the site, I first ensured the heading nav bar was fully functional with the logo and all three pages navigating with the same style applied. I ensured the landing page zoom style works on launch. I went through each google map anchor in the physical locations section divs, which successfully launch in a new tab when selected. In the Browse page I tested each linked label image, which succesfully launches the label/artists site directly in a new tab. Lastly I tested the Join page, checking each input of the form and submitting with a succesful result.
 
 ### The project has also been tested to be responsive on tablet and mobile devices using developer tools.
 
@@ -93,6 +91,6 @@
 ### Fonts: https://fonts.google.com/
 
 ## Media
-### The photos used on the Home page are from: https://thevinylfactory.com/features/crate-diggers-dvs1/
+### The photos used on the Home page is from: https://thevinylfactory.com/features/crate-diggers-dvs1/
 ### The images used for the Browse page were taken from: https://www.discogs.com/Moodymann-Sinner/release/13692661
 ### The images used for the Join page was taken from: https://www.wired.com/story/new-to-vinyl-records-shopping-what-you-need-to-know/

@@ -207,6 +207,8 @@ hr {
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
+    
+    overflow: hidden;
 }
 
 /* footer */
