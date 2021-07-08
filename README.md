@@ -11,13 +11,13 @@
 ## Existing Features
 ### Navigation Bar
 
-### Featured on all three pages, the fully responsive navigation bar includes links to the Logo, Home page, label browse and join page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+### Featured on all three pages, the fully responsive navigation bar includes links to the logo, home page, label browse and join page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
 ![Nav Bar image](assets/images/nav-bar.jpg)
 
 ## The landing page image
 
-### The landing includes a photograph of a collector browsing though a record collection with text overlay to allow the user to see exactly what the site would be applicable to. This section introduces the user to CBT Records with an eye catching animation to grab their attention
+### The landing includes a photograph of a collector browsing though a record collection with text overlay to allow the user to see exactly what the site would be applicable to. This section introduces the user to CBT Records with an eye catching animation to grab their attention. Audio plays on launch to give an insight into the type of music the site is geared towards.
 
 ![Landing Page image](assets/images/landing-page.jpg)
 
@@ -49,6 +49,12 @@
 
 ### This page will allow the user to get signed up to CBT Records to start their collecting journey with the community. The user will be able specify if they are shopping as a DJ or collector. The user will be asked to submit their full name and email address.
 
+![Listen image](assets/images/listen.jpg)
+
+## The Listen Page
+
+### This page will provide users with embedded links to artists live sets and new tracks weekly. This section will include embedded Soundcloud links. The user will be able to listen to and discover music directly from the site which will eventually leads to forum discussions when the forum page is added.
+
 ![Sign Up image](assets/images/join-image.jpg)
 
 ## Features left to implement
@@ -62,6 +68,10 @@
 ## *Forum*
 
 ### This section would act as an online forum for site users to discuss releases, events, concepts and more.
+
+## *Order*
+
+### This section would act as a central location to place one order from numerous sites with the aim of reducing shipping fees with one single umbrella type purchase.
 
 ## Testing
 ### In testing the site, I first ensured the heading nav bar was fully functional with the logo and all three pages navigating with the same style applied. I ensured the landing page zoom style works on launch. I went through each google map anchor in the physical locations section divs, which successfully launch in a new tab when selected. In the Browse page I tested each linked label image, which succesfully launches the label/artists site directly in a new tab. Lastly I tested the Join page, validating each input of the form and submitting with a succesful result.
@@ -89,6 +99,7 @@
 ### Google Maps for physical location links.
 ### Shop-ethos icons: https://fontawesome.com/
 ### Fonts: https://fonts.google.com/
+### Launch audio: self published
 
 ## Media
 ### The photos used on the Home page is from: https://thevinylfactory.com/features/crate-diggers-dvs1/
