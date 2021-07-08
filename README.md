@@ -13,43 +13,43 @@
 
 ### Featured on all three pages, the fully responsive navigation bar includes links to the Logo, Home page, label browse and join page and is identical in each page to allow for easy navigation. This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-![Nav Bar image]()
+![Nav Bar image](assets/images/nav-bar.jpg)
 
 ## The landing page image
 
 ### The landing includes a photograph of a collector browsing though a record collection with text overlay to allow the user to see exactly what the site would be applicable to. This section introduces the user to CBT Records with an eye catching animation to grab their attention
 
-![Landing Page image]()
+![Landing Page image](assets/images/landing-page.jpg)
 
 ## Shop Ethos Section
 
 ### The shop ethos section will allow the user to see the benefits of joining the CBT records online community, as well as additional features to offer including worldwide delivery, merchandise, playlists and shop info. This user will see the value of signing up for the CBT records. This should encourage the user to consider CBT as their sole form of discovering new music and events.
 
-![Shop Ethos image]()
+![Shop Ethos image](assets/images/shop-ethos.jpg)
 
 ## Physical locations section
 
 ### This section will allow the user to see exactly where the mockup physical stores are located, with addresses and opening hours. This section will be updated as these times change to keep the user up to date. Each section will be anchored to launch Google Maps in a new tab when clicked.
 
-![Physical locations image]()
+![Physical locations image](assets/images/physical-locations.jpg)
 
 ## The Footer
 
 ### The footer section includes links to the relevant social media sites for CBT records. The links will open to a new tab to allow easy navigation for the user. The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer image]()
+![Footer image](assets/images/footer.jpg)
 
 ## Browse page
 
 ### The Browse page will provide the user with supporting images to the record labels available to choose from. This section is valuable to the user as they will be able to easily identify the label they want to browse music from, idetified by distiguishable logos nested within a clickable link that will launch the artists Bandcamp page in a new tab.
 
-![Browse image]()
+![Browse image](assets/images/browse.jpg)
 
 ## The Join Page
 
 ### This page will allow the user to get signed up to CBT Records to start their collecting journey with the community. The user will be able specify if they are shopping as a DJ or collector. The user will be asked to submit their full name and email address.
 
-![Sign Up image]()
+![Sign Up image](assets/images/join-image.jpg)
 
 ## Features left to implement
 
