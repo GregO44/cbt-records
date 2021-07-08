@@ -209,6 +209,8 @@ hr {
     box-sizing: border-box;
     
     overflow: hidden;
+
+    overflow-wrap:inherit;
 }
 
 /* footer */
@@ -343,6 +345,7 @@ footer {
 
 #form-text {
     color: #fff;
+    left: 0;
 }
 
 #form-image {

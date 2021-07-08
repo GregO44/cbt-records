@@ -1,4 +1,4 @@
-![CBT Records Logo](/images/Ethos-image.jpg)
+![CBT Records Logo](assets/images/logo.jpg)
 
 ## CBT Records
 
@@ -6,7 +6,7 @@
 
 ### The site will be targeted towards artists, labels, djs & collectors, who are looking for one single place to discover, purchase, sell and promote music from. It will have one login, one shipping cost and will host a thriving online community. The site will also be a platform for creatives to share ideas, resources, events, tips, reviews and more. 
 
-![Responsive Mockup images on multiple devices]()
+![Responsive Mockup images on multiple devices](assets/images/landing-page.jpg)
 
 ## Existing Features
 ### Navigation Bar
@@ -64,7 +64,7 @@
 ### This section would act as an online forum for site users to discuss releases, events, concepts and more.
 
 ## Testing
-### In testing the site, I first ensured the heading nav bar was fully functional with the logo and all three pages navigating with the same style applied. I ensured the landing page zoom style works on launch. I went through each google map anchor in the physical locations section divs, which successfully launch in a new tab when selected. In the Browse page I tested each linked label image, which succesfully launches the label/artists site directly in a new tab. Lastly I tested the Join page, checking each input of the form and submitting with a succesful result.
+### In testing the site, I first ensured the heading nav bar was fully functional with the logo and all three pages navigating with the same style applied. I ensured the landing page zoom style works on launch. I went through each google map anchor in the physical locations section divs, which successfully launch in a new tab when selected. In the Browse page I tested each linked label image, which succesfully launches the label/artists site directly in a new tab. Lastly I tested the Join page, validating each input of the form and submitting with a succesful result.
 
 ### The project has also been tested to be responsive on tablet and mobile devices using developer tools.
 
