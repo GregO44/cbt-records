@@ -273,6 +273,12 @@ footer {
         padding: 0;
     }
 
+    #curated {
+        font-size: x-small;
+        margin: 0;
+        text-align: center;
+    }
+    
     #locations > div {
         width: 100%;
         clear: both;
@@ -294,6 +300,7 @@ footer {
         margin-bottom: 20px;
         line-height: 25px ;
         font-size: small;
+        text-align: center;
     }
 
     #form-text {
@@ -303,15 +310,6 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
         margin: auto;
-    }
-
-    #form-outer {
-        height: 600px;
-        width: 100%;
-        overflow: hidden;
-        font-size: x-small;
-        
-        position: relative;
     }
 
     #cover-text {
