@@ -293,6 +293,25 @@ footer {
         margin-left: 15px;
         margin-bottom: 20px;
         line-height: 25px ;
+        font-size: small;
+    }
+
+    #form-text {
+        clear: left;
+        float: left;
+        margin-left: 15px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        margin: auto;
+    }
+
+    #form-outer {
+        height: 600px;
+        width: 100%;
+        overflow: hidden;
+        font-size: x-small;
+        
+        position: relative;
     }
 
     #cover-text {
