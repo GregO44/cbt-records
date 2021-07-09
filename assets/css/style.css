@@ -329,6 +329,9 @@ footer {
     #photos {
          column-count: 2;
     }
+    #listen {
+        column-count: 2;
+   }
 }
 
 /* form image and text */

@@ -49,13 +49,13 @@
 
 ### This page will allow the user to get signed up to CBT Records to start their collecting journey with the community. The user will be able specify if they are shopping as a DJ or collector. The user will be asked to submit their full name and email address.
 
-![Listen image](assets/images/join-image.jpg
+![Join image](assets/images/join-image.jpg)
 
 ## The Listen Page
 
 ### This page will provide users with embedded links to artists live sets and new tracks weekly. This section will include embedded Soundcloud links. The user will be able to listen to and discover music directly from the site which will eventually leads to forum discussions when the forum page is added.
 
-![Sign Up image](assets/images/listen.jpg)
+![Listen image](assets/images/listen.jpg)
 
 ## Features left to implement
 
