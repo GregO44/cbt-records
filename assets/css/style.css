@@ -246,6 +246,31 @@ footer {
     width: 100%;
 }
 
+#browse-about {
+    text-align: center;
+    font-size: 200%;
+    font-weight: lighter;
+    width: 100%;
+    overflow: hidden;
+    color:#fafafa;
+    background-color: black;
+    border-bottom: chartreuse;
+    
+    position:relative;
+    height: 300%;
+    float: left;
+    
+}
+
+#listen-about {
+        background: url(../images/club-space.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        overflow: hidden;
+    }
+
 /* media queries */
 
 @media screen and (max-width: 1200px) {
