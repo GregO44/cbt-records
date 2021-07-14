@@ -455,3 +455,31 @@ footer {
         width: 100%;
         overflow: hidden;
     }
+
+/* for medium screens 800px and below */
+@media screen and (max-width: 1300px) {
+    #photos {
+         column-count: 4;
+    }
+    #listen {
+        column-count: 3;
+   }
+}
+
+@media screen and (max-width: 992px) {
+    #photos {
+         column-count: 3;
+    }
+    #listen {
+        column-count: 2;
+   }
+}
+
+@media screen and (max-width: 768px) {
+    #photos {
+         column-count: 2;
+    }
+    #listen {
+        column-count: 1;
+   }
+}
