@@ -271,111 +271,6 @@ footer {
         overflow: hidden;
     }
 
-/* media queries */
-
-@media screen and (max-width: 1200px) {
-    #shop-ethos {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-    #welcome {
-        padding: 30px 0;
-        margin: 0;
-    }
-
-    #left-about, #right-about {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    #center-about {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    #curated {
-        font-size: x-small;
-        margin: 0;
-        text-align: center;
-    }
-    
-    #locations > div {
-        width: 100%;
-        clear: both;
-        height: 150px;
-        padding: 0;
-    }
-
-    hr {
-        display: none;
-    }
-}
-
-/* for medium screens 950px and below */
-@media screen and (max-width: 950px) {
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 15px;
-        margin-bottom: 20px;
-        line-height: 25px ;
-        font-size: small;
-        text-align: center;
-    }
-
-    #form-text {
-        clear: left;
-        float: left;
-        margin-left: 15px;
-        margin-bottom: 20px;
-        line-height: 25px;
-        margin: auto;
-    }
-
-    #cover-text {
-        left: 0;
-    }
-
-    #shop-ethos {
-        width: 90%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-    .left-about-heading, .right-about-heading {
-        width: inherit;
-    }
-
-    .left-about-heading h2, .right-about-heading h2 {
-        width: 100%;
-        text-align: center;
-    }
-
-    .left-about-heading p, .right-about-heading p {
-        text-align: center;
-        padding: 0 20px; 
-    }
-
-    #photos {
-        column-count: 3;
-    }
-}
-
-/* for medium screens 800px and below */
-@media screen and (max-width: 800px) {
-    #photos {
-         column-count: 2;
-    }
-    #listen {
-        column-count: 2;
-   }
-}
-
 /* form image and text */
 
 #form-outer {
@@ -481,6 +376,107 @@ footer {
         overflow: hidden;
     }
 
+    /* media queries */
+
+@media screen and (max-width: 1200px) {
+    #shop-ethos {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #left-about, #right-about {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #center-about {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #curated {
+        font-size: small;
+        margin: 0;
+        text-align: center;
+    }
+
+    #browse-about {
+        font-size: small;
+        margin: 0;
+        text-align: center;
+    }
+    
+    #locations > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+}
+
+/* for medium screens 950px and below */
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 15px;
+        margin-bottom: 20px;
+        line-height: 25px ;
+        font-size: small;
+        text-align: center;
+    }
+
+    #form-text {
+        clear: left;
+        float: left;
+        margin-left: 15px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        margin: auto;
+    }
+
+    #cover-text {
+        left: 0;
+    }
+
+    #shop-ethos {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-about-heading, .right-about-heading {
+        width: inherit;
+    }
+
+    .left-about-heading h2, .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p, .right-about-heading p {
+        text-align: center;
+        padding: 0 20px; 
+    }
+
+    #photos {
+        column-count: 3;
+    }
+}
+
 /* for medium screens 800px and below */
 @media screen and (max-width: 1300px) {
     #photos {
@@ -498,6 +494,34 @@ footer {
     #listen {
         column-count: 2;
    }
+
+   #amsterdam {
+    font-size: x-small;
+    margin: 0;
+    text-align: center;
+}
+
+   #berlin {
+    font-size: x-small;
+    margin: 0;
+    text-align: center;
+}
+   #barcelona {
+    font-size: x-small;
+    margin: 0;
+    text-align: center;
+}
+   #london {
+    font-size: x-small;
+    margin: 0;
+    text-align: center;
+}
+
+   #dublin {
+    font-size: x-small;
+    margin: 0;
+    text-align: center;
+}
 }
 
 @media screen and (max-width: 768px) {
@@ -507,4 +531,30 @@ footer {
     #listen {
         column-count: 1;
    }
+
+   #amsterdam {
+    font-size: xx-small;
+    margin: 0;
+    text-align: left;
+}
+   #berlin {
+    font-size: xx-small;
+    margin: 0;
+    text-align: left;
+}
+   #barcelona {
+    font-size: xx-small;
+    margin: 0;
+    text-align: left;
+}
+   #london {
+    font-size: xx-small;
+    margin: 0;
+    text-align: left;
+}
+   #dublin {
+    font-size: xx-small;
+    margin: 0;
+    text-align: left;
+}
 }
