@@ -27,7 +27,7 @@
 
 ## Physical locations section
 
-#### This section will allow the user to see where the mockup physical stores are located, with related city icons, addresses and opening hours in each column. Each section will be anchored to launch Google Maps in a new tab when clicked. This section will be updated as these times change to keep the user up to date.
+#### This section will allow the user to see where the mockup physical stores are located, with related city icons, addresses and opening hours in each column. Each section will be anchored to launch Google Maps in a new tab when clicked. This section will be updated as these times change to keep the user up to date. There is also a header to direct the users attention towards the maps function for directions.
 
 ![Physical locations image](assets/images/physical-locations.jpg)
 

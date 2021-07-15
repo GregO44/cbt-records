@@ -211,6 +211,19 @@ hr {
     overflow: hidden;
 }
 
+#locations-about {
+    text-align: center;
+    font-size: 200%;
+    width: 100%;
+    overflow: hidden;
+    color:black;
+    background-color:#fafafa;
+    
+    position:relative;
+    height: 300%;
+    float: left;
+    
+}
 /* footer */
 
 footer {
@@ -410,6 +423,12 @@ footer {
     }
 
     #browse-about {
+        font-size: small;
+        margin: 0;
+        text-align: center;
+    }
+
+    #locations-about {
         font-size: small;
         margin: 0;
         text-align: center;
