@@ -15,7 +15,7 @@
 
 ## The landing page image
 
-#### The landing includes a photograph of a collector browsing though a record collection with text overlay to allow the user to see exactly what the site would be applicable to. This section introduces the user to CBT Records with an eye catching animation to grab their attention. Audio plays on launch to give an insight into the type of music the site is geared towards.
+#### The landing includes a photograph of a collector browsing though a record collection with text overlay to allow the user to see exactly what the site would be applicable to. This section introduces the user to CBT Records with an eye catching animation to grab their attention.
 
 ![Landing Page image](assets/images/landing-page.jpg)
 
