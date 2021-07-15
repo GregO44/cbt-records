@@ -51,7 +51,7 @@
 
 ## The Join Page
 
-#### This page will allow the user to get signed up to CBT Records to start their collecting journey within the community. The user will be able specify if they are shopping as a DJ or collector. The user will be asked to submit their full name and email address.
+#### This page will allow the user to get signed up to CBT Records to start their collecting journey within the community. The user will be able specify if they are shopping as a DJ or collector. The user will be asked to submit their full name and email address. I used the CI formdump in the absence of JS logic to handle the request.
 
 ![Join image](assets/images/join-image.jpg)
 
