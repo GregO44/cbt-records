@@ -102,5 +102,4 @@
 ### The photos used on the Home page is from: https://thevinylfactory.com/features/crate-diggers-dvs1/
 ### The images used for the Browse page were taken from: https://www.discogs.com/Moodymann-Sinner/release/13692661
 ### The images used for the Join page was taken from: https://www.wired.com/story/new-to-vinyl-records-shopping-what-you-need-to-know/
-### Launch audio: self published
 ### Listen audio: Soundcloud
